@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>  on esin gogus</title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in   on esin gogus</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>//localhost:1313/search/</link>
+      <link>http://localhost:1313/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/search/</guid>
+      <guid>http://localhost:1313/search/</guid>
       <description>title: &amp;ldquo;Search&amp;rdquo; # in any language you want layout: &amp;ldquo;search&amp;rdquo; # necessary for search
 url: &amp;ldquo;/archive&amp;rdquo; description: &amp;ldquo;Description for Search&amp;rdquo; summary: &amp;ldquo;search&amp;rdquo; placeholder: &amp;ldquo;placeholder text in search input box&amp;rdquo;</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/teaching/</link>
+      <link>http://localhost:1313/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/teaching/</guid>
+      <guid>http://localhost:1313/teaching/</guid>
       <description>I enjoy teaching, tutoring, mentorship, and academia. If you are interested in learning more about my tutoring services, find my contact info here.
 relevant coursework (2020-2024) The Science of Psychology (PSYCH UN 1001) Cognitive Neuroscience (PSYCH UN 2430) Intro Bio I: Biochemistry and Genetics (BIOL UN 2005) Intro Bio II: Cell Biology, Developmental Biology, and Physiology (BIOL UN 2006) General Chemistry I &amp;amp; II (CHEM S 1403 &amp;amp; 1404) General Chemistry Laboratory (CHEM UN 1500) General Physics I &amp;amp; II (PHYS UN 1201 &amp;amp; 1291) General Physics I &amp;amp; II Laboratory (PHYS UN 1202 &amp;amp; 1292) Physiology (BIOL UN 3006) Organic Chemistry I &amp;amp; II (CHEM UN 2443 &amp;amp; 2444) Organic Chemistry I &amp;amp; II Laboratory (CHEM UN 2495 &amp;amp; 2496) Computing in Biology (COMS W 1002) Molecular Biology (BIOC GU 4512) Calc-Based Intro to Statistics (STAT UN 1201) Biochemistry (BIOL GU 4501) Virology (BIOL GU 4310) TAship (2022-2024) As a TA, my responsibilities included holding weekly 2-hour recitations and office hours, assisting lecturers with writing exam questions, and proctoring exams.</description>
     </item>
     <item>
       <title> </title>
-      <link>//localhost:1313/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>Hey there!
 I love chaos, and here’s why.
 Growing up, I was never decisive about what I wanted to become. If you’d asked eight-year-old me, my dream was to be an American singer who could belly dance—my inner oriental Hannah Montana. Then came my space era, where I kept a notebook filled with physics formulas, convinced that memorizing them would one day take me to space. High school? Total confusion. My future was in constant flux.</description>
     </item>
     <item>
       <title> </title>
-      <link>//localhost:1313/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>Feel free to reach out if you have any questions, want to propose collaboration ideas, or are interested in learning more about my tutoring services for the MCAT, biology, general chemistry, and organic chemistry! &amp;#x1f680;</description>
     </item>
     <item>
       <title> </title>
-      <link>//localhost:1313/fun/</link>
+      <link>http://localhost:1313/fun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fun/</guid>
+      <guid>http://localhost:1313/fun/</guid>
       <description>&amp;#x1f3a4; singing I love singing. It grounds me. Brings me joy. I would love to perform more, so open to any and all opportunities to get on stage, including karaoke!
 Here&amp;rsquo;s my lil&amp;rsquo; singing account and my Rehab by Amy Winehouse cover.
 &amp;#x1f4f7; photography &amp;amp; traveling I am passionate about traveling and chronicling my travels on my instagram blog! (And yes, I do have another blog for another hobby&amp;hellip;) Go check it out!</description>
     </item>
     <item>
       <title> </title>
-      <link>//localhost:1313/research/</link>
+      <link>http://localhost:1313/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/research/</guid>
+      <guid>http://localhost:1313/research/</guid>
       <description>I gained independent research experience as an undergraduate research assistant at the Jovanovic Lab, where I also completed the Summer Undergraduate Research Fellowship (SURF). My projects focused on method development and optimization. Recognizing the importance of technological enhancement and fine-tuning, I am eager to apply these tools to better understand both pathological and non-pathological biological systems.
 I am currently working as a Research Associate in the Proteomics Team at the Broad Institute with a focus on data generation for the Clinical Proteomic Tumor Analysis Consortium (CPTAC).</description>
     </item>
