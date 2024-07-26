@@ -1,0 +1,62 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'esin gogus'
+theme = 'PaperMod'
+enableEmoji = 'true'
+
+custom_css = ["css/custom.css"]
+custom_js = ["js/custom.js"]
+
+[params]
+  [params.profileMode]
+    enabled = true
+    title = " " 
+    subtitle = "welcome stranger!"
+    imageUrl = "/img/grad.png" 
+    imageTitle = "<title of image as alt>" # optional
+    imageWidth = 200 # custom size
+    imageHeight =  200 # custom size
+
+  [[params.socialIcons]]
+    name = "instagram"
+    url = "https://www.instagram.com/esingogus02/?locale=es_ES"
+  
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/eg02hub"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/esingogus/"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "teaching"
+    name = "teaching"
+    url = "/teaching/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "research"
+    name = "research"
+    url = "/research/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "fun"
+    name = "fun"
+    url = "/fun/"
+    weight = 40
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "contact"
+    url = "/contact/"
+    weight = 50
+
