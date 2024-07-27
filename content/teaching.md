@@ -6,7 +6,7 @@ draft = false
 I enjoy teaching, tutoring, mentorship, and academia. If you are interested in learning more about my tutoring services, find my contact info [here](/contact).
 
 
-### relevant coursework (2020-2024)
+### :mortar_board: relevant coursework (2020-2024)
 
 1. *The Science of Psychology* (PSYCH UN 1001) 
 2. *Cognitive Neuroscience* (PSYCH UN 2430) 
@@ -25,12 +25,18 @@ I enjoy teaching, tutoring, mentorship, and academia. If you are interested in l
 15.  *Biochemistry* (BIOL GU 4501) 
 16.  *Virology* (BIOL GU 4310) 
 
-### TAship (2022-2024)
+### :mortar_board: TAship (2022-2024)
 
 As a TA, my responsibilities included holding weekly 2-hour recitations and office hours, assisting lecturers with writing exam questions, and proctoring exams. I find lecturing, experimenting with new teaching and learning styles, and interacting with students from diverse backgrounds incredibly rewarding. 
 
 - *Intro Bio I* (Fall 2022 & 2023)
 - *Intro Bio II* (Spring 2023)
 - *Molecular Biology* (Spring 2024)
+
+### :mortar_board: academic awards & honors (if you care)
+
+- latin honors: [summa cum laude](https://www.college.columbia.edu/node/30265)
+- departmental honors: [honors in biology](https://biology.columbia.edu/content/honors-biological-sciences)
+- phi beta kappa senior inductee
 
 {{< figure src="/img/acad.JPG" width="550" height="405" align="center">}}
