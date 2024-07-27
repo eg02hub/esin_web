@@ -33,7 +33,7 @@ As a TA, my responsibilities included holding weekly 2-hour recitations and offi
 - *Intro Bio II* (Spring 2023)
 - *Molecular Biology* (Spring 2024)
 
-### :mortar_board: academic awards & honors (if you care)
+### :mortar_board: academic awards & honors 
 
 - latin honors: [summa cum laude](https://www.college.columbia.edu/node/30265)
 - departmental honors: [honors in biology](https://biology.columbia.edu/content/honors-biological-sciences)
